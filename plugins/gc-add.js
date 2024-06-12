@@ -38,8 +38,8 @@ const handler = async (m, {conn, text, participants, args}) => {
     throw tradutor.texto5;
   }
 };
-handler.help = ['add', '+'].map((v) => v + ' número');
+handler.help = ['اضافه', 'الرقم'].map((v) => v + ' número');
 handler.tags = ['group'];
-handler.command = /^(add|agregar|añadir|\+)$/i;
+handler.command = /^(اضافه|ضيف|añadir|\+)$/i;
 handler.admin = handler.group = handler.botAdmin = true;
 export default handler;
