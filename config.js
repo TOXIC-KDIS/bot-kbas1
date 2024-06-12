@@ -39,8 +39,8 @@ global.owner = [
   ['5219991402134']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['967734144053'];
+global.prems = ['967734144053'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
@@ -75,8 +75,8 @@ global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
 global.gt = 'The Mystic - Bot';
 global.mysticbot = 'The Mystic - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.md = 'https://whatsapp.com/channel/0029VaaLM7m6BIErLz1Xcq3M';
+global.mysticbot = 'https://whatsapp.com/channel/0029VaaLM7m6BIErLz1Xcq3M';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
