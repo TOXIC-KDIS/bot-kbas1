@@ -28,6 +28,6 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   }
 };
 
-handler.command = /^aicharacter$/i;
+handler.command = /^بوت$/i;
 
 export default handler;
