@@ -21,7 +21,7 @@ ${tradutor.texto1[5]}
 
 ${tradutor.texto1[6]}`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
+    'document': {url: `https://whatsapp.com/channel/0029VaaLM7m6BIErLz1Xcq3M`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -30,13 +30,13 @@ ${tradutor.texto1[6]}`.trim();
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+        'mediaUrl': 'https://whatsapp.com/channel/0029VaaLM7m6BIErLz1Xcq3M',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://whatsapp.com/channel/0029VaaLM7m6BIErLz1Xcq3M'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};
