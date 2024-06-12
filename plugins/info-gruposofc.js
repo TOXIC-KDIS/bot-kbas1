@@ -42,5 +42,5 @@ ${tradutor.texto1[6]}`.trim();
     'headerType': 6};
   conn.sendMessage(m.chat, buttonMessage, {quoted: m});
 };
-handler.command = ['linkgc', 'grupos'];
+handler.command = ['المجوعات', 'الجروبات'];
 export default handler;
